@@ -1,0 +1,34 @@
+[🩸]Comandos yosuke bot para fazer no termux[🩸]
+
+
+
+Faça de um por um dentro do app termux
+
+
+1° COMANDO 
+
+termux-setup-storage
+
+2° COMANDO 
+
+cd /sdcard/yosuke-botv3
+
+3° sh install.sh
+
+4° COMANDO 
+
+npm start 
+
+
+[🩸]Pronto todos os programas já foram instalados, agora só colocar seu número e copiar o código[🩸]
+
+
+Alguma duvida? Nosso chat de suporte & Informações:
+
+https://chat.whatsapp.com/Gl4FCSrSz6hLqF0PHusC2k
+
+
+
+@𝑷𝒙𝒛 𝑴𝒐𝒅𝒔
+
+

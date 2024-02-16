@@ -6,7 +6,7 @@ PURPLE='\033[0;35m'
 CYAN='\033[0;36m'
 while : 
 do
-echo "${GREEN}YOSUKE V3 - CONEXÃO LIMPAR ATIVANDO PROTEÇÕES PARA CONECTAR..."
+echo "${GREEN} Yosuke - Conexão sendo programada para iniciar corretamente.."
 node connect.js
 sleep 1
 done

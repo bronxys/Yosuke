@@ -7,7 +7,7 @@
   "consoleoff": false,
   "antipv": false,
   "anticall": false,
-  "visualizarmsg": true,
+  "visualizarmsg": false,
   "listanegraG": [],
   "botoes_": false,
   "TOKEN_GPT": "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",

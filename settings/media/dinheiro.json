@@ -15,8 +15,26 @@
     "usus": [
       {
         "id": "558598188647@s.whatsapp.net",
+        "Golds": 40,
+        "data": "02/02/24",
+        "desligar": true
+      },
+      {
+        "id": "558592549207@s.whatsapp.net",
         "Golds": 20,
-        "data": "30/01/24",
+        "data": "03/02/24",
+        "desligar": true
+      },
+      {
+        "id": "559294440572@s.whatsapp.net",
+        "Golds": 10,
+        "data": "02/02/24",
+        "desligar": true
+      },
+      {
+        "id": "258857642813@s.whatsapp.net",
+        "Golds": 10,
+        "data": "03/02/24",
         "desligar": true
       }
     ]
@@ -27,6 +45,43 @@
   },
   {
     "grupo": "558592549207@s.whatsapp.net",
+    "usus": []
+  },
+  {
+    "grupo": "120363204992837565@g.us",
+    "usus": []
+  },
+  {
+    "grupo": "status@broadcast",
+    "usus": []
+  },
+  {
+    "grupo": "120363214351361767@g.us",
+    "usus": [
+      {
+        "id": "558592549207@s.whatsapp.net",
+        "Golds": 50,
+        "data": "07/02/24",
+        "desligar": true
+      },
+      {
+        "id": "558598188647@s.whatsapp.net",
+        "Golds": 60,
+        "data": "07/02/24",
+        "desligar": true
+      }
+    ]
+  },
+  {
+    "grupo": "5511984802266@s.whatsapp.net",
+    "usus": []
+  },
+  {
+    "grupo": "120363211043020805@g.us",
+    "usus": []
+  },
+  {
+    "grupo": "558694479511@s.whatsapp.net",
     "usus": []
   }
 ]

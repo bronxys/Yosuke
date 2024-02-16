@@ -1,0 +1,63 @@
+const menulogos = (prefix, sender) => {
+  
+// NÃO APAGUE ESSE ${prefix}, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa.  
+  
+  return ` 
+╭═════════════ ⪨
+┃ ࿊⃟🎨𝐋𝐎𝐆𝐎𝐒 𝟏 𝐓𝐄𝐗𝐓𝐎🎨⃟࿊
+┃│✾ × ${prefix}marvel (Texto)
+┃│✾ × ${prefix}pornhub (Texto)
+┃│✾ × ${prefix}space (Texto)
+┃│✾ × ${prefix}stone (Texto)
+┃│✾ × ${prefix}steel (Texto)
+┃│✾ × ${prefix}grafity (Texto)
+┃│✾ × ${prefix}glitch3 (Texto)
+┃│✾ × ${prefix}america (Texto)
+┃│✾ × ${prefix}fiction (Texto)
+┃│✾ × ${prefix}3dstone (Texto)
+┃│✾ × ${prefix}areia (Texto)
+┃│✾ × ${prefix}style (Texto)
+┃│✾ × ${prefix}blood (Texto)
+┃│✾ × ${prefix}pink (Texto)
+┃│✾ × ${prefix}cattxt (Texto)
+┃│✾ × ${prefix}neondevil(Texto)
+┃│✾ × ${prefix}carbon (Texto)
+┃│✾ × ${prefix}metalfire  (Texto)
+┃│✾ × ${prefix}thunder (Texto)
+┃│✾ × ${prefix}vidro (Texto)
+┃│✾ × ${prefix}jokerlogo (Texto)
+┃│✾ × ${prefix}transformer (Texto)
+┃│✾ × ${prefix}demonfire (Texto)
+┃│✾ × ${prefix}jeans (Texto)
+┃│✾ × ${prefix}metalblue (Texto)
+┃│✾ × ${prefix}natal (Texto)
+┃│✾ × ${prefix}ossos (Texto)
+┃│✾ × ${prefix}asfalto (Texto)
+┃│✾ × ${prefix}break (Texto)
+┃│✾ × ${prefix}glitch2 (Texto)
+┃│✾ × ${prefix}colaq (Texto)
+┃│✾ × ${prefix}neon3 (Texto)
+┃│✾ × ${prefix}nuvem (Texto)
+┃│✾ × ${prefix}horror (Texto)
+┃│✾ × ${prefix}matrix (Texto)
+┃│✾ × ${prefix}berry (Texto)
+┃│✾ × ${prefix}luxury (Texto)
+┃│✾ × ${prefix}lava (Texto)
+┃│✾ × ${prefix}thunderv2 (Texto)
+┃│✾ × ${prefix}neongreen (Texto)
+┃│✾ × ${prefix}neve (Texto)
+┃│✾ × ${prefix}neon (Texto)
+┃│✾ × ${prefix}neon1  (Texto)
+┃│✾ × ${prefix}neon3d (Texto)
+┃│✾ × ${prefix}gelo (Texto)
+┃│✾ × ${prefix}neon3 (Texto)
+┃│✾ × ${prefix}3dgold (Texto)
+┃│✾ × ${prefix}lapis (Texto)
+┃│✾ × ${prefix}toxic (Texto)
+┃│✾ × ${prefix}demongreen (Texto)
+┃│✾ × ${prefix}rainbow (Texto)
+┃│✾ × ${prefix}halloween (Texto)
+╰═════════════ ⪨`
+}
+
+exports.menulogos = menulogos

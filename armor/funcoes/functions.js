@@ -200,13 +200,13 @@ const getRandom = (ext) => {
 return `${Math.floor(Math.random() * 10000)}${ext}`;
 };
 
-const banner2 = cfonts.render((`Yosuke bot`), {
+const banner2 = cfonts.render((`Canal: https://www.youtube.com/@PxzModsConteudosOfc|Criador: 55 85 9818-8647 @GabrielMods`), {
 font: 'console',
 align: 'center',
 gradient: ['blue', 'red']
 });
  
-const banner3 = cfonts.render((`${consoleon}`), {
+const banner3 = cfonts.render((`YOSUKE|BOTV5`), {
   font: 'block',
   align: "center",
   gradient: ['red', 'magenta']

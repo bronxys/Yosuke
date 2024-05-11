@@ -1,0 +1,78 @@
+[
+  {
+    "name": "YOSUKE BOT PREMIUM",
+    "groupId": "120363222428408961@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": true,
+    "antiaudio": false,
+    "antisticker": true,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": true,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": true,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "?"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": true,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "bem vindo #prefix#",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": true,
+    "level": true,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": true
+  }
+]

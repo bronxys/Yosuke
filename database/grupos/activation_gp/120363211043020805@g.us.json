@@ -15,16 +15,16 @@
     "antifake": false,
     "antiporn": false,
     "Odelete": false,
+    "antispam": false,
     "antinotas": false,
     "anticatalogo": false,
-    "sistemGold": false,
     "visuUnica": false,
     "registrarFIGUS": false,
     "soadm": false,
     "listanegra": [],
     "advertir": [],
     "prefixos": [
-      "#"
+      "!"
     ],
     "advertir2": [],
     "legenda_estrangeiro": "0",
@@ -44,6 +44,7 @@
       }
     ],
     "ausentes": [],
+    "forca_inc": false,
     "antipalavrao": {
       "active": false,
       "palavras": []
@@ -55,12 +56,12 @@
     "wellcome": [
       {
         "bemvindo1": false,
-        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
         "legendasaiu": 0
       },
       {
         "bemvindo2": false,
-        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
         "legendasaiu": 0
       }
     ],
@@ -70,8 +71,8 @@
     "autoresposta": false,
     "jogos": false,
     "level": false,
-    "bangp": true,
+    "bangp": false,
     "nsfw": false,
-    "rpg": false
+    "aluguel": true
   }
 ]

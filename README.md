@@ -1,2 +1,1 @@
-Yosuke
-
+# Yosuke-bot

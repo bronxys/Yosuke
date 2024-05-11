@@ -1,6 +1,6 @@
 [
   {
-    "name": "Teste",
+    "name": "[ 𝐂𝐇𝐀𝐓 ] 𝐘𝐎𝐒𝐔𝐊𝐄 𝐁𝐎𝐓 𝐎𝐅𝐂",
     "groupId": "120363204166411287@g.us",
     "x9": false,
     "antiimg": false,
@@ -15,16 +15,16 @@
     "antifake": false,
     "antiporn": false,
     "Odelete": false,
+    "antispam": false,
     "antinotas": false,
     "anticatalogo": false,
-    "sistemGold": true,
     "visuUnica": false,
     "registrarFIGUS": false,
     "soadm": false,
     "listanegra": [],
     "advertir": [],
     "prefixos": [
-      "!"
+      "©"
     ],
     "advertir2": [],
     "legenda_estrangeiro": "0",
@@ -44,6 +44,7 @@
       }
     ],
     "ausentes": [],
+    "forca_inc": false,
     "antipalavrao": {
       "active": false,
       "palavras": []
@@ -55,23 +56,23 @@
     "wellcome": [
       {
         "bemvindo1": false,
-        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
         "legendasaiu": 0
       },
       {
-        "bemvindo2": true,
-        "legendabv": "seja bem vindo",
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
         "legendasaiu": 0
       }
     ],
     "simi1": false,
     "simi2": false,
     "autosticker": false,
-    "autoresposta": true,
-    "jogos": true,
+    "autoresposta": false,
+    "jogos": false,
     "level": false,
     "bangp": false,
     "nsfw": false,
-    "rpg": true
+    "aluguel": true
   }
 ]

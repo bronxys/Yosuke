@@ -38,12 +38,12 @@
     "request": "^2.88.2",
     "yt-search": "^2.10.2"
   },
-  "name": "YOSUKE BOT",
+  "name": "yosuke-bot",
   "description": "YOSUKE BOT 6.5 VERSÃO OFICIAL",
   "version": "6.5.0",
   "main": "index.js",
   "scripts": {
-    "start": "ulimit -c 0 && bash start.sh sim",
+    "start": "ulimit -c 0 && bash start.sh",
     "test": "node connect.js"
   },
   "repository": {
